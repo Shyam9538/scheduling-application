@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78b947a5.css",
+    "main.js": "/static/js/main.060d9b43.js",
+    "static/js/415.c26eb0ad.chunk.js": "/static/js/415.c26eb0ad.chunk.js",
+    "static/js/787.07ea762f.chunk.js": "/static/js/787.07ea762f.chunk.js",
+    "static/media/fdm_Logo2.png": "/static/media/fdm_Logo2.044f4d1793974986fc02.png",
+    "index.html": "/index.html",
+    "main.78b947a5.css.map": "/static/css/main.78b947a5.css.map",
+    "main.060d9b43.js.map": "/static/js/main.060d9b43.js.map",
+    "415.c26eb0ad.chunk.js.map": "/static/js/415.c26eb0ad.chunk.js.map",
+    "787.07ea762f.chunk.js.map": "/static/js/787.07ea762f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b947a5.css",
+    "static/js/main.060d9b43.js"
+  ]
+}
