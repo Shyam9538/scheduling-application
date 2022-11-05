@@ -1,0 +1,67 @@
+{
+  "courses": [
+    {
+      "courseName": "Object-Oriented Programming",
+      "courseLength": 0,
+      "activeCourse": false,
+      "modules": [
+        {
+          "id": 1,
+          "moduleName": "Module 1",
+          "trainerID": "Trainer 1",
+          "startTime": "April 14th 2022, 9:52 pm",
+          "endTime": "April 28th 2022, 9:52 pm"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "courseName": "Web Technology",
+      "courseLength": 0,
+      "activeCourse": false,
+      "modules": [],
+      "id": 3
+    },
+    {
+      "courseName": "Automata and Formal Languages",
+      "courseLength": 0,
+      "activeCourse": false,
+      "modules": [],
+      "id": 4
+    },
+    {
+      "courseName": "How to run a business",
+      "courseLength": 0,
+      "activeCourse": false,
+      "modules": [],
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "helos",
+      "email": "helos@FDM.org",
+      "password": "123",
+      "userType": "staff"
+    },
+    {
+      "id": 2,
+      "name": "richard",
+      "email": "richard@FDM.org",
+      "password": "123",
+      "userType": "trainer",
+      "skill": "communications",
+      "availability": ""
+    },
+    {
+      "id": 3,
+      "name": "harry",
+      "email": "harry@FDM.org",
+      "password": "123",
+      "userType": "trainer",
+      "skill": "Team Skills",
+      "availability": ""
+    }
+  ]
+}
